@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinícius Miranda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
 - 🔭 I’m currently working on banking applications with Java technologies 
-- 🌱 I’m currently learning Rust and Cloud Computing Architecture and Development (most preferred AWS)
+- 🌱 I’m currently learning Rust and Cloud Computing Architecture and Development (AWS)
 
 ##
 <div align="center">
