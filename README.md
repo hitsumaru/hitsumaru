@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinícius Miranda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
-- 🔭 I’m currently working on banking applications with Java technologies 
-- 🌱 I’m currently learning Go and scratching in Rust. Besides that, I'm leveraging my knowledge in Cloud Computing (AWS) Architecture and Development. Also trying to get a little better with a few front-end technologies like Dart (Flutter) and React.
+- 🔭 I’m currently working on banking applications with several technologies including Java, Python, Javascript and Serverless (AWS). 
+- 🌱 I'm learning Go and scratching in Rust. Besides that, I'm leveraging my knowledge in Cloud Computing (AWS) Architecture and Development. Also trying to get a little better with a few front-end technologies like React and other stuffs like Vue.js, Tailwind CSS etc.
 
 ##
 <div align="center">
