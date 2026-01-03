@@ -13,7 +13,6 @@ Hi there! I'm Vinicius Miranda (@hitsumaru) 👋
 * **DevOps:** CI/CD, Docker, Kubernetes
 
 ### Where to find me:
-[// Your existing social media badges/links go here]
 <div align="center">
     <a href="https://github.com/hitsumaru"></a>
 </div>
